@@ -1,3 +1,37 @@
+# Curso de Laravel 5.1 - Blog
+## Digital Datos
+
+### [Vídeos do curso](https://www.youtube.com/watch?v=Mxz-9PhvtwU&list=PLlkbdTgXRCZD7D0UmBv2m2G8u4Se4UQRi)
+
+### Lista de aulas  
+
+Aula 1 - Instalando Laravel  
+Aula 2 - Migrations  
+Aula 3 - Relações entre tabelas  
+Aula 4 - Pacote Eloquent Sluggable  
+Aula 5 - ModelFactory e DatabaseSeeder  
+Aula 6 - Routes e Controllers  
+Aula 7 - Trabalhando com views  
+Aula 8 - Listar usuários  
+Aula 9 - Criar usuário  
+Aula 10 - Validação de formulários  
+Aula 11 - Editar e excluir usuários  
+Aula 12 - CRUD Categorias  
+Aula 13 - Autenticação em Laravel  
+Aula 14 - Middleware  
+Aula 15 - Trabalhando com o front  
+Aula 16 - Navegando entre o blog e administrador  
+Aula 17 - Listando os artigos  
+Aula 18 - Criando os artigos  
+Aula 19 - Atualizando e excluindo artigos  
+Aula 20 - Protegendo a área administrativa  
+Aula 21 - Desenho de template básico  
+Aula 22 - Dados no template  
+Aula 23 - Solucionando problema de atualização de slug  
+Aula 24 - Datas e comentários  
+
+##
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
