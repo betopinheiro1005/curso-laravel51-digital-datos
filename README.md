@@ -1,9 +1,13 @@
 # Curso de Laravel 5.1 - Blog
 ## Digital Datos
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=Mxz-9PhvtwU&list=PLlkbdTgXRCZD7D0UmBv2m2G8u4Se4UQRi)
+### Instalação de dependências
 
-### Lista de aulas  
+```bash
+composer install
+```
+
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=Mxz-9PhvtwU&list=PLlkbdTgXRCZD7D0UmBv2m2G8u4Se4UQRi)  
 
 Aula 1 - Instalando Laravel  
 Aula 2 - Migrations  
